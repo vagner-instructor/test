@@ -1,0 +1,4 @@
+ {
+    "remediation_name" : "XDR_Block_Source_IP",
+    "src_ip_addr" : "10.110.100.11"
+}
