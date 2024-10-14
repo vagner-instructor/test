@@ -2,7 +2,7 @@
   "posts": [
     {
       "remediation_name" : "XDR_Block_Source_IP",
-      "src_ip_addr" : "10.8.8.8"
+      "src_ip_addr" : "10.9.9.9"
     },
     {
       "id": 2,
